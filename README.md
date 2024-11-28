@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Saniya Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN stack developer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saniya1970&label=Profile%20views&color=0e75b6&" alt="saniya1970" /> </p>
 
-- 🌱 I’m currently learning **BackEnd Technology NodeJs, ExpressJs ,MongoDB, REST API**
+- 🌱 I’m currently learning **Deployment, AWS, Docker**
 
 - 💬 Ask me about **React js**
 
